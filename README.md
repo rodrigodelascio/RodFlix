@@ -1,2 +1,2 @@
 # RodFlix
- FilmFlix Python app with database integration
+ A database to navigate and perform CRUD and Filter operations, applying changes in real time.
